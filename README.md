@@ -27,6 +27,10 @@ Some formats have different capabilities. For example, PDF uses its own fixed-la
 
 Your imported publications and app-owned metadata remain local to the device unless you explicitly export, back up or sync them.
 
+## Advanced user guide
+
+For a deeper explanation of how NON·LIBER behaves — including reading modes, pagination, PDF, typography, annotations, Artefact, Scriptum, backup and the local-first model — see the **[Advanced User Guide](docs/ADVANCED_USER_GUIDE.md)**.
+
 ## Public testing
 
 NON·LIBER is in active development. Phone use is well tested, but broader testing across manufacturers, Android versions, tablets, unusual display sizes and different document collections is very welcome.
