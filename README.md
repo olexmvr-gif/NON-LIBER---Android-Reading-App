@@ -41,12 +41,6 @@ If you find a problem, please open a GitHub Issue and include, where possible:
 - what actually happened;
 - screenshot or short screen recording.
 
-## Advanced documentation
-
-For the internal architecture, code-language map, storage model, Reader engines, Android/WebView boundary, build pipeline and known technical risks, see:
-
-**[Advanced Technical Map](docs/ADVANCED_TECHNICAL_MAP.md)**
-
 ## Current platform notes
 
 The audited v0.6.0.0.5 build targets Android 8.0 / API 26 and later and is currently packaged for `arm64-v8a`. Tablet compatibility needs broader physical testing.
