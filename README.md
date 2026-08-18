@@ -17,7 +17,7 @@ Some formats have different capabilities. For example, PDF uses its own fixed-la
 
 ## Basic use
 
-1. Download the current public-test APK from **Releases** when a build is available.
+1. Download the current **[NON·LIBER v0.6.0.0.7 Public Test APK](NON-LIBER-v0.6.0.0.7-PUBLIC-TEST.apk)**.
 2. Install it on an Android device.
 3. Open NON·LIBER and use **Import** to add your own books or documents.
 4. Use **Library** for normal organisation, sorting, filtering and metadata.
