@@ -47,7 +47,7 @@ If you find a problem, please open a GitHub Issue and include, where possible:
 
 ## Current platform notes
 
-The audited v0.6.0.0.5 build targets Android 8.0 / API 26 and later and is currently packaged for `arm64-v8a`. Tablet compatibility needs broader physical testing.
+The current v0.6.0.0.7 public-test build targets Android 8.0 / API 26 and later. Tablet compatibility needs broader physical testing.
 
 ## Licence
 
