@@ -2,7 +2,7 @@
 
 > **Public technical overview**  
 > **Audience:** advanced users, testers, technically curious readers, and people who want to understand how NON·LIBER behaves without exposing the private implementation blueprint.  
-> **Reference build:** NON·LIBER v0.6.0.0.5  
+> **Reference build:** NON·LIBER v0.6.0.0.7  
 > **Platform:** Android
 
 ---
